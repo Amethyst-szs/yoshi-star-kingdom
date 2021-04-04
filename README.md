@@ -3,7 +3,7 @@
 ### Credits:
 
 ##### Mod Development:
-Amethyst-szs: Primary Devloper //
+Amethyst-szs: Primary Developer //
 JuPaHe64: Water, General Help //
 CraftyBoss: Lumas
 
