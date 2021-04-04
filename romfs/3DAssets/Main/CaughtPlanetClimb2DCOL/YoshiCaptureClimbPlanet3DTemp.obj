@@ -1,0 +1,15 @@
+# Blender v2.83.0 OBJ File: 'CaughtPlanetClimbCOL.blend'
+# www.blender.org
+mtllib YoshiCaptureClimbPlanet3DTemp.mtl
+o Floors_Mesh.002
+v -437.370361 999.125244 685.468323
+v -437.370361 999.124878 863.822510
+v -86.058258 999.124878 863.822510
+v -86.059509 999.124878 863.821777
+v -78.545471 999.125244 685.468323
+vn 0.0000 1.0000 0.0000
+usemtl Material.012
+s off
+f 1//1 4//1 5//1
+s 1
+f 1//1 2//1 3//1

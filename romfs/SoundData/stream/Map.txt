@@ -1,0 +1,5 @@
+RsBgmTitle.nk.48.dspadpcm --> Title Screen
+StmRsBgmExAthletic02 --> Ex0
+StmRsBgmExChika --> Ex1 & Ex2
+StmRsBgmExRuin --> Ex3
+StmRsBgmFall --> Home
