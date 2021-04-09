@@ -9,7 +9,8 @@ CraftyBoss: Lumas
 
 ###### Music:
 Nintendo: Music Creator //
-Amethyst-szs: Music Importer
+Amethyst-szs: Music Importer //
+Winner Nombre: Mario Galaxy Over Mario Odyssey In Opening
 
 ###### Translations/Text:
 Amethyst-szs: English //
