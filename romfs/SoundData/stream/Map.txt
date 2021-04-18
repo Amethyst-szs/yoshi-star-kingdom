@@ -3,4 +3,5 @@ StmRsBgmExAthletic02 --> Ex0
 StmRsBgmExChika --> Ex1 & Ex2
 StmRsBgmExRuin --> Ex3
 RsBgmExBonus.fs.48.dspadpcm --> Ex4
+RsBgmExAthletic.k.48.dspadpcm --> Ex5
 StmRsBgmFall --> Home
