@@ -19,19 +19,19 @@ Winner Nombre: Standard French //
 Chico: Canadian French
 
 ###### Playtesting
-Pigswipe: Playtester
+Pigswipe: Playtester //
 My Family: Playtester
 
 ###### YouTubers
-Mayro: Promoting the trailer and playing the mod
-JayMoji: Playing the mod
-BreadBear: Promoting the trailer and playing the mod
-Matyas: Promoting the trailer and playing the mod
-aWiibo: Promoting the trailer and playing the mod
+Mayro: Promoting the trailer and playing the mod //
+JayMoji: Playing the mod //
+BreadBear: Promoting the trailer and playing the mod //
+Matyas: Promoting the trailer and playing the mod //
+aWiibo: Promoting the trailer and playing the mod //
 And all the others I can't list without this getting too long
 
 ###### Special Thanks
-ItzSka: Random help and support
-My family: Supporting the project
-Wolfer: Being supportive with me and the project
+ItzSka: Random help and support //
+My family: Supporting the project //
+Wolfer: Being supportive with me and the project //
 YOU! For caring about the project
