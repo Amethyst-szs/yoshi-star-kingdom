@@ -16,5 +16,22 @@ Winner Nombre: Mario Galaxy Over Mario Odyssey In Opening
 Amethyst-szs: English //
 JuPaHe64: German //
 Winner Nombre: Standard French //
-Chico: Canadian French //
-Bacon: Polish
+Chico: Canadian French
+
+###### Playtesting
+Pigswipe: Playtester
+My Family: Playtester
+
+###### YouTubers
+Mayro: Promoting the trailer and playing the mod
+JayMoji: Playing the mod
+BreadBear: Promoting the trailer and playing the mod
+Matyas: Promoting the trailer and playing the mod
+aWiibo: Promoting the trailer and playing the mod
+And all the others I can't list without this getting too long
+
+###### Special Thanks
+ItzSka: Random help and support
+My family: Supporting the project
+Wolfer: Being supportive with me and the project
+YOU! For caring about the project
