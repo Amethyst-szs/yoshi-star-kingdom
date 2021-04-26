@@ -16,7 +16,8 @@ Winner Nombre: Mario Galaxy Over Mario Odyssey In Opening
 Amethyst-szs: English //
 JuPaHe64: German //
 Winner Nombre: Standard French //
-Chico: Canadian French
+Chico: Canadian French //
+Vera: Italian
 
 ###### Playtesting
 Pigswipe: Playtester //
