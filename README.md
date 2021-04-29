@@ -1,4 +1,8 @@
 # yoshi-star-kingdom
+## Codenamed ProjectRetry
+
+### Information:
+This repo is a Super Mario Odyssey custom kingdom.
 
 ### Credits:
 
@@ -17,7 +21,8 @@ Amethyst-szs: English //
 JuPaHe64: German //
 Winner Nombre: Standard French //
 Chico: Canadian French //
-Vera: Italian
+Vera: Italian //
+CasperThePancake: Dutch
 
 ###### Playtesting
 Pigswipe: Playtester //
