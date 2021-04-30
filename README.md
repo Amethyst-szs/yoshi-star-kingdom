@@ -2,7 +2,7 @@
 ## Yoshi Star Kingdom
 
 ### Information:
-This repo is a Super Mario Odyssey custom kingdom. The mod's main download is on Gamebanana, but prereleases and extra assets can be found in the github repo instead.
+This repo is a Super Mario Odyssey custom kingdom. The mod's main download is on Gamebanana, but prereleases and extra assets can be found in the github repo instead. Contains 1 star, 10 green stars in the main kingdom, and 2 green stars in each of the six sub areas, adding up to 23 stars to collect!
 
 ### Installation:
 The same as any other switch mod installation, place the romfs folder of the mod download in this directory on your SD card: ```/atmosphere/contents/0100000000010000/romfs```
