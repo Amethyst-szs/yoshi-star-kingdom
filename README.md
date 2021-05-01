@@ -11,14 +11,14 @@ If you don't have your switch modded, this won't work. The discord server won't 
 ### Credits:
 
 #### Mod Development:
-###### Amethyst-szs: Primary Developer
-###### JuPaHe64: Water, General Help
+###### Amethyst-szs: Primary dev
+###### JuPaHe64: Water moddeling, materials, and a lot more
 ###### CraftyBoss: Lumas
 
 #### Music:
-###### Nintendo: Music Creator
-###### Amethyst-szs: Music Importer
-###### Winner Nombre: Mario Galaxy Over Mario Odyssey In Opening
+###### Nintendo: Music creator
+###### Amethyst-szs: Music importer
+###### Winner Nombre: Mario Galaxy over Mario Odyssey in opening
 
 #### Translations/Text:
 ###### Amethyst-szs: English
