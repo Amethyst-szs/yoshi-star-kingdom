@@ -1,6 +1,7 @@
 RsBgmTitle.nk.48.dspadpcm --> Title Screen
 StmRsBgmExAthletic02 --> Ex0
-StmRsBgmExChika --> Ex1 & Ex2
+StmRsBgmExChika --> Ex1
+StmRsBgmExChika2 --> Ex2
 StmRsBgmExRuin --> Ex3
 RsBgmExBonus.fs.48.dspadpcm --> Ex4
 RsBgmExAthletic.k.48.dspadpcm --> Ex5
