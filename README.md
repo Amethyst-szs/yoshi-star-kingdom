@@ -12,7 +12,7 @@ If you don't have your switch modded, this won't work. The discord server won't 
 
 #### Mod Development:
 ###### Amethyst-szs: Primary dev
-###### JuPaHe64: Water moddeling, materials, and a lot more
+###### JuPaHe64: Water moddeling, materials, and a lot more (Seriously they deserve so much credit they helped so much)
 ###### CraftyBoss: Lumas
 
 #### Music:
