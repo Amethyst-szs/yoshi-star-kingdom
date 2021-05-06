@@ -36,7 +36,7 @@ If you don't have your switch modded, this won't work. The discord server won't 
 #### YouTubers
 ###### Mayro: Promoting the trailer and playing the mod
 ###### JayMoji: Playing the mod
-###### BreadBear: Promoting the trailer and playing the mod
+###### BeardBear: Promoting the trailer and playing the mod
 ###### Matyas: Promoting the trailer and playing the mod
 ###### aWiibo: Promoting the trailer and playing the mod
 ###### And all the others I can't list without this getting too long
