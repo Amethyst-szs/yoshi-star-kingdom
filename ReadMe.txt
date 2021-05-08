@@ -33,7 +33,6 @@ Amethyst-szs: English
 JuPaHe64: German
 Winner Nombre: Standard French
 Chico: Canadian French
-Vera: Italian
 CasperThePancake: Dutch
 
 Playtesting
