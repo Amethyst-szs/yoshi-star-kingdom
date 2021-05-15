@@ -26,7 +26,6 @@ If you don't have your switch modded, this won't work. The discord server won't 
 ###### JuPaHe64: German
 ###### Winner Nombre: Standard French
 ###### Chico: Canadian French
-###### Vera: Italian
 ###### CasperThePancake: Dutch
 
 #### Playtesting
