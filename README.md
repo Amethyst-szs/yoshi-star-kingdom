@@ -20,6 +20,7 @@ If you don't have your switch modded, this won't work. The discord server won't 
 ###### Amethyst-szs: Music importer
 ###### Winner Nombre: Mario Galaxy over Mario Odyssey in opening
 ###### PianoMavs: Cloudy Court Galaxy - Piano Cover
+###### Loeder: Yoshi Star Galaxy 8-Bit Cover
 
 #### Translations/Text:
 ###### Amethyst-szs: English
